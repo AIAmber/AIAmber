@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">AIAmber — Curiosity, with direction.</title>
+  <desc id="desc">An amber sun above quiet teal mountains, bringing Eastern landscape and modern geometry together.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#142B33"/><stop offset="1" stop-color="#0C171E"/></linearGradient>
+    <linearGradient id="sun" x2="0" y2="1"><stop stop-color="#F5D090"/><stop offset="1" stop-color="#D79D50"/></linearGradient>
+  </defs>
+  <rect width="1200" height="350" rx="18" fill="url(#sky)"/>
+  <circle cx="976" cy="133" r="72" fill="none" stroke="#D5AB6D" stroke-opacity=".13"/>
+  <circle cx="976" cy="133" r="58" fill="url(#sun)"/>
+  <path d="M650 285 Q720 235 790 257 Q850 170 910 234 Q966 185 1025 215 Q1110 127 1200 176 V350 H650Z" fill="#24434A"/>
+  <path d="M665 327 Q765 238 840 289 Q925 228 986 278 Q1080 207 1200 256 V350 H665Z" fill="#1A333C"/>
+  <path d="M780 350 Q864 293 941 319 Q1080 260 1200 303 V350Z" fill="#10252E"/>
+  <path d="M854 275 Q925 230 983 277" fill="none" stroke="#D5AB6D" stroke-width="1" stroke-opacity=".32"/>
+  <g fill="#F3EEE4" font-family="Arial, Helvetica, sans-serif">
+    <text x="62" y="62" font-size="13" letter-spacing="4" fill="#D8B780">A CURIOUS MIND · AN OPEN HORIZON</text>
+    <text x="60" y="147" font-size="66" font-weight="700" letter-spacing="-2">AIAmber</text>
+    <text x="63" y="197" font-size="27" fill="#E1DDD4">Curiosity, with direction.</text>
+    <text x="63" y="244" font-size="18" letter-spacing="3" fill="#C1D1D0" font-family="PingFang SC, Microsoft YaHei, sans-serif">保持好奇 · 知行合一</text>
+    <path d="M63 281 H111" stroke="#D8B780" stroke-width="2"/>
+    <text x="63" y="315" font-size="12" letter-spacing="2.5" fill="#9FB6B8">AI AGENTS / THOUGHTFUL TOOLS / A LIFE WELL LIVED</text>
+  </g>
+</svg>
